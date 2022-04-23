@@ -1,0 +1,14 @@
+Exercise::
+ 1: Read Total profit of all months and show it using a line plot.
+ 2: Get total profit of all months and show line plot with the following Style properties
+ 3: Read all product sales data and show it  using a multiline plot
+ 4: Read toothpaste sales data of each month and show it using a scatter plot
+ 5: Read face cream and facewash product sales data and show it using the bar chart
+ 6: Read sales data of bathing soap of all months and show it using a bar chart. Save this plot to your hard disk
+ 7: Read the total profit of each month and show it using the histogram to see the most common profit ranges
+ 8: Calculate total sale data for last year for each product and show it using a Pie chart
+ 9: Read Bathing soap facewash of all months and display it using the Subplot
+ 10: Read all product sales data and show it using the stack plot
+ 
+ 
+   https://pynative.com/python-matplotlib-exercise/
